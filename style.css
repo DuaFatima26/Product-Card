@@ -56,9 +56,10 @@
 }
 
 .container ul {
-    margin: 0 auto;
+    /* margin: 0 auto; */
     padding: 0;
-    text-align: center;
+    /* text-align: center; */
+    margin-left: 35%
 }
 
 .container img {
